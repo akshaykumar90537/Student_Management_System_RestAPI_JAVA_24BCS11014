@@ -171,10 +171,9 @@ DELETE http://localhost:8080/students/1
 
 ## 👩‍💻 Author
 
-**Vedika Pawade**
+**Akshay Kumar**
 
 - B.Tech Computer Science Engineering
-- Java Full Stack Developer
 - Spring Boot | MySQL | REST API
 
 ---
